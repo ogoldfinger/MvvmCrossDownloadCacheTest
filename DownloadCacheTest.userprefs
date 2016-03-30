@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="DownloadCacheTest.iOS/DownloadCacheTest.iOS.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DownloadCacheTest.iOS/Views/FirstView.cs">
+    <Files>
+      <File FileName="DownloadCacheTest.Core/ViewModels/FirstViewModel.cs" Line="8" Column="88" />
+      <File FileName="DownloadCacheTest.iOS/Views/FirstView.cs" Line="22" Column="21" />
+      <File FileName="DownloadCacheTest.iOS/Setup.cs" Line="32" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
